@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VariablesAndDataTypes\VariablesAndDataTypes2\VariablesAndDataTypes2\bin\Debug\VariablesAndDataTypes2.exe.config
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VariablesAndDataTypes\VariablesAndDataTypes2\VariablesAndDataTypes2\bin\Debug\VariablesAndDataTypes2.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VariablesAndDataTypes\VariablesAndDataTypes2\VariablesAndDataTypes2\bin\Debug\VariablesAndDataTypes2.pdb
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VariablesAndDataTypes\VariablesAndDataTypes2\VariablesAndDataTypes2\obj\Debug\VariablesAndDataTypes2.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VariablesAndDataTypes\VariablesAndDataTypes2\VariablesAndDataTypes2\obj\Debug\VariablesAndDataTypes2.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VariablesAndDataTypes\VariablesAndDataTypes2\VariablesAndDataTypes2\obj\Debug\VariablesAndDataTypes2.exe
+C:\Users\micha\OneDrive\Desktop\consoleApp1\VariablesAndDataTypes\VariablesAndDataTypes2\VariablesAndDataTypes2\obj\Debug\VariablesAndDataTypes2.pdb
